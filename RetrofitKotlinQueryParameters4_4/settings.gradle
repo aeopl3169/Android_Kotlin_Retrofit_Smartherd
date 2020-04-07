@@ -1,0 +1,2 @@
+rootProject.name='RetrofitKotlinQueryParameters4_4'
+include ':app'

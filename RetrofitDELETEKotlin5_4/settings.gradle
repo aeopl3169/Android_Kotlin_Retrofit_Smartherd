@@ -1,0 +1,2 @@
+rootProject.name='RetrofitDELETEKotlin5_4'
+include ':app'

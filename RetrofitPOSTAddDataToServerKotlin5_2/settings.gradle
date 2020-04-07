@@ -1,0 +1,2 @@
+rootProject.name='RetrofitPOSTAddDataToServerKotlin5_2'
+include ':app'
